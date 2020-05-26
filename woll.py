@@ -25,7 +25,7 @@ def main():
     os.system('clear')
     print logo
     print '      %s+-----={ %sMain Menu %s}=-----+'%(merah,putih,merah)
-    print '      %s[%s01%s]%s Empas Moonton Checker'%(putih,hijau,putih,gelap)
+    print '      %s[%s01%s]%s Empas Moonton Checker'%(hijau,hijau,putih,biru)
     print '      %s[%s02%s]%s Empas Facebook Checker'%(putih,hijau,putih,gelap)
     print '      %s[%s03%s]%s Empas Checker Indihome'%(putih,hijau,putih,gelap)
     print '      %s[%s04%s]%s Empas Steam Checker'%(putih,hijau,putih,gelap)
